@@ -42,6 +42,7 @@ body{
 }
 .container{
     text-align: center;
+    background-color:thistle;
 }
 .t-first{
     background-color:cyan;
